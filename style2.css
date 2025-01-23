@@ -1,0 +1,38 @@
+h1{
+    color: aliceblue;
+    background-color: yellowgreen;
+    margin: 12px;
+    padding: 12px;
+}
+
+h2{
+    color: antiquewhite;
+    background-color: yellow;
+    margin: 12px;
+    padding: 12px;
+
+    
+}
+
+h3{
+    color: aqua;
+    background-color: white;
+    margin: 12px;
+    padding: 12px;
+
+}
+h4{
+    color: beige;
+    background-color: violet;
+    margin: 12px;
+    padding: 12px;
+
+}
+
+h5{
+    color: blanchedalmond;
+    background-color: turquoise;
+    padding: 12px;
+    margin: 12px;
+    
+}
